@@ -1,0 +1,172 @@
+img{
+    margin-right: 1rem;
+    margin-left: 0.5rem;
+}
+
+@media (min-width: 200px){
+    .row{
+        text-align: center;
+    }
+    .navbar-brand{
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.3rem;
+    }
+    .carousel-inner{
+        height: 500px;
+    }
+}
+
+@media (min-width: 769px){
+    .row2{
+        text-align: right;
+    }
+    .navbar-brand{
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 2rem;
+    }
+    .carousel-inner{
+        height: 350px;
+    }
+}
+
+.present-title{
+    padding-top: 2.5rem;
+}
+
+#title{
+    background-color: #253237;
+    color: #eeeeee;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h1{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bold;
+    color:#fff;
+    font-size: 3.0rem;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 3% 5%;
+}
+
+/* Navbar */
+.navbar{
+    padding: 0 0 2.5rem;
+}
+
+
+
+.nav-item{
+    padding:0 14px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+/* Download-btn */
+.download-btn{
+    margin:5% 3% 5% 0%
+}
+
+/* Profile-pict */
+.img-profile{
+    width: 50%;
+}
+
+#presentation{
+    color: #253237;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1.6rem;
+    padding: 5% 15% 3% 15%;
+    text-align: center;
+}
+
+.dot {
+    text-align: center;
+    height: 20px;
+    width: 20px;
+    background-color: #c2dfe3;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 1%
+}
+
+#hr{
+    text-align: center;
+}
+
+#skills{
+    padding: 3% 15% 0% 15%;
+    text-align: center;
+}
+
+.skill-sect{
+    padding: 5%;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+h3{
+    font-weight: bold;
+}
+
+.gif{
+    width: 50%;
+    margin-bottom: 1rem;
+}
+
+#Languages{
+    padding: 3% 15% 0% 15%;
+    text-align: center;
+}
+
+#Achievements{
+    padding: 3% 15% 0% 15%;
+    text-align: center;
+    background-color: #5c6b73;
+    color: #fff;
+}
+
+.carousel-item{
+    padding: 5% 10%;
+}
+
+.achievement-sect{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 120%;
+}
+
+.achievement-sect-h3{
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.carousel-control-prev{
+    padding-right: 10%;
+}
+
+.carousel-control-next{
+    padding-left: 10%;
+}
+
+.img_achievements{
+    width: 15%;
+}
+
+.download-anchor:hover{
+    text-decoration: none;
+    color: #eeeeee;
+}
+
+.download-anchor:visited{
+    text-decoration: none;
+    color: #eeeeee;
+}
+
